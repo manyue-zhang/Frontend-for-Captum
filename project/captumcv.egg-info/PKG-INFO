@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: captumcv
+Version: 0.0.1
+Summary: Very nice
+Home-page: ODO
+Author: Artiom Blinovas, Babar Ayan, Manyue Zhang
+Author-email: 1329832095urihgfdkjhgd@gmail.com
+License: MIT
+Keywords: captum pytorch attribution
+Classifier: Development Status :: 3 - Alpha
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: BSD License
+
+# This is just some readme
+
+# TODO
+- include the required files in the setup.py that are needed for the operation
+
+- to install the Project do the fallowing
+- $ python setup.py install
+
+- after that the project should have all dependencies it needs
